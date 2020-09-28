@@ -8,8 +8,6 @@
 1. Helping/Impacting as many lives as possible.
 1. Honest, creative, caring
 
-<br >
-
 ## 🔭 I’m currently working on:
 
 1. Education platform
