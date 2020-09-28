@@ -1,12 +1,12 @@
-# 👋 I am Tejas
+# 👋 Hi, I am Tejas
 
-### A person with growth mindset.<br >
+## 😎 About me:
 
-### Always looking to improve, become better at everything I do.<br >
-
-### Love deep conversations.<br >
-
-### Eager to help/impact as many lives as possible. .
+1. A person with growth mindset.
+1. Always looking to improve, becoming better at everything I do.
+1. Love deep conversations.
+1. Helping/Impacting as many lives as possible.
+1. Honest, creative, caring
 
 <br >
 
@@ -29,7 +29,7 @@
 1. 25 non-technical blog posts
 1. Get at least 2 certificates on FreeCodeCamp.org
 
-## ⚡ Fun fact: I love shuffle dance
+## ⚡ Fun fact: I love [shuffle dance][shuffle]
 
 ### Connect with me:
 
@@ -67,3 +67,4 @@
 </details>
 
 [twitter]: https://twitter.com/tejas_soe
+[shuffle]: https://www.youtube.com/watch?v=6y1XPxGjY1E
