@@ -8,6 +8,12 @@
 1. Helping/Impacting as many lives as possible.
 1. Honest, creative, caring
 
+## 🥅 2022 Goals:
+
+1. Lead
+1. Help people grow around me
+1. Build better relations with people
+
 ## 🔭 I’m currently working on:
 
 1. Education platform
@@ -17,15 +23,20 @@
 
 ## 🌱 I’m currently learning
 
-1. HTML5 fundamentals
+1. AWS - ECS
+1. SvelteKit
+1. CSS - doesn't hurt to learn more CSS
+1. Scaling 
+1. Being more reliable 
+<!-- 1. HTML5 fundamentals
 1. CSS fundamentals
-1. Algorithms and Data structures
+1. Algorithms and Data structures -->
 
-## 🥅 2020 Goals:
+<!-- ## 🥅 2020 Goals:
 
 1. Daily algorithm practice,
 1. 25 non-technical blog posts
-1. Get at least 2 certificates on FreeCodeCamp.org
+1. Get at least 2 certificates on FreeCodeCamp.org -->
 
 ## ⚡ Fun fact: I love [shuffle dance][shuffle]
 
@@ -57,12 +68,12 @@
 
 ---
 
-<details>
+<!-- <details>
   <summary>⚡ Github Stats</summary>
 
   <img align="left" alt="Tejas' Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CodingCreate101&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [twitter]: https://twitter.com/tejas_soe
 [shuffle]: https://www.youtube.com/watch?v=6y1XPxGjY1E
