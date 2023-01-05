@@ -8,7 +8,7 @@
 1. Helping/Impacting as many lives as possible.
 1. Honest, creative, caring
 
-## 🥅 2022 Goals:
+## 🥅 2023 Goals:
 
 1. Lead
 1. Help people grow around me
